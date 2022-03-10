@@ -33,12 +33,12 @@
 - 👯 I’m looking to collaborate on [Facebook](https://www.facebook.com/gobinda72).
 - 🤔 I’m looking for help with Laravel WebApplication.
 - 💬 Ask me about Flutter or any tech-related stuff.
-- 📫 How to reach me: [Instagram - @imthepk](https://instagram.com/gobindactg) , [Linkdein - @mtechviral](https://linkedin.com/in/gobindactg)
+- 📫 How to reach me: [Instagram - @Gobinda](https://instagram.com/gobindactg) , [Linkdein - @Gobinda](https://linkedin.com/in/gobindactg)
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: I spend almost 12 hours listening to songs every day.
 
-[![Twitter: imthepk](https://img.shields.io/twitter/follow/imthepk?style=social)](https://twitter.com)
-[![Linkedin: gobindactg](https://img.shields.io/badge/-imthepk-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://linkedin.com/in/gobindactg)](https://linkedin.com/in/gobindactg)
+[![Twitter: Gobinda](https://img.shields.io/twitter/follow/imthepk?style=social)](https://twitter.com)
+[![Linkedin: Gobinda](https://img.shields.io/badge/-imthepk-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://linkedin.com/in/gobindactg)](https://linkedin.com/in/gobindactg)
 [![GitHub Gobindactg](https://img.shields.io/github/followers/iampawan?label=follow&style=social)](https://github.com/Gobindactg)
 
 
@@ -56,7 +56,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iampawan&theme=light&hide_langs_below=1" />
 </a>
 <a href="https://github.com/Gobindactg">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=iampawan&show_icons=true&theme=light&line_height=27" alt="Pawan's github stats"/>
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=Gobindactg&show_icons=true&theme=light&line_height=27" alt="Gobinda's github stats"/>
 </a>
 
 <div align="center">
