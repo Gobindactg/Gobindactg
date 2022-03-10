@@ -1,5 +1,4 @@
-## Hellow, <br>
-I'm [<span style="color:#3388FF; font-family:tahoma, font=size:20px">Gobinda Das!</span>] 👋
+## Hellow, I'm [<span style="color:#3388FF; font-family:tahoma, font=size:20px">Gobinda Das!</span>] 👋
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=iampawan&label=Views&color=blue&style=plastic" alt="Gobindactg" /> </p>
 
