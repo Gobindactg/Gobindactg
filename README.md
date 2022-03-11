@@ -38,7 +38,7 @@
 - ⚡ Fun fact: I spend almost 12 hours listening to songs every day.
 
 [![Twitter: Gobinda](https://img.shields.io/twitter/follow/gobindactg?style=social)](https://twitter.com)
-[![Linkedin: Gobinda](https://img.shields.io/badge/-gobindactg-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://linkedin.com/in/gobindactg)](https://linkedin.com/in/gobindactg)
+[![Linkedin: Gobinda](https://img.shields.io/badge/gobindactg-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://linkedin.com/in/gobindactg)](https://linkedin.com/in/gobindactg)
 [![GitHub Gobindactg](https://img.shields.io/github/followers/gobindactg?label=follow&style=social)](https://github.com/Gobindactg)
 
 
